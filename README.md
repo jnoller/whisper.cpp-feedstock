@@ -1,0 +1,2 @@
+# whisper.cpp-feedstock
+POC
